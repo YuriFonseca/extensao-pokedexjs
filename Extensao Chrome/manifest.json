@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Pokedex Extension",
+    "description": "Aprendendo a criar a primeira extensao",
+    "author": "Yuri Fonseca",
+    "browser_action": {
+        "default_title":"Pokedex Extension",
+        "default_popup": "index.html"
+    }
+}
